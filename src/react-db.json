@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "productName": "iphone",
+            "price": 89000,
+            "quantity": 0
+        },
+        {
+            "id": 2,
+            "productName": "samsung",
+            "price": 19000,
+            "quantity": 0
+        },
+        {
+            "id": 3,
+            "productName": "realme",
+            "price": 9000,
+            "quantity": 0
+        },
+        {
+            "id": 4,
+            "productName": "redmi",
+            "price": 4000,
+            "quantity": 0
+        },
+        {
+            "id": 6,
+            "productName": "vivo",
+            "price": 29000,
+            "quantity": 0
+        },
+        {
+            "id": 5,
+            "productName": "oppo",
+            "price": 55000,
+            "quantity": 0
+        }
+    ]
+}
